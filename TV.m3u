@@ -1,0 +1,587 @@
+#EXTM3U url-tvg="http://1lot.tv/epg/epg.xml, https://antifriztv.com/xmltv.xml.gz, http://myott.top/api/epg.xml.gz
+#EXTINF:-1 tvg-id="h1-am-hd-orig" tvg-logo="https://i.ibb.co/vLVfQ1y/SGN-03-25-2022-1648158264793.png" group-title="🇦🇲 АРМЕНИЯ",H1 HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/H1/SAF-HLS/H1.m3u8
+#EXTINF:-1 tvg-id="h1-am" tvg-logo="https://i.ibb.co/S4SDNXY7/SGN-02-01-2025-1738386392114.png" group-title="🇦🇲 АРМЕНИЯ",H1 International HD
+https://amtvusdvr.tulix.tv/am2abr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/QdgWjWW/SGN-04-28-2024-1714322762375.png" group-title="🇦🇲 АРМЕНИЯ",H1 USA
+https://amtvus.tulixcdn.com/amtv4/am4abr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="no_epg_news" tvg-logo="https://i.ibb.co/7NbwNZh/SGN-12-18-2021-1639835945728.png" group-title="🇦🇲 АРМЕНИЯ",1Lurer HD
+https://stream02.vnet.am/CNN/mono.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/zP84tGp/SGN-06-25-2022-1656153628142.png" group-title="🇦🇲 АРМЕНИЯ",1in.am TV HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/1inAM/SAF-HLS/1inAM.m3u8
+#EXTINF:-1 tvg-id="h2-am" tvg-logo="https://itvget.com/img.php?img=images/channels/6477.png" group-title="🇦🇲 АРМЕНИЯ",H2 HD
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ncdn-y1-w3.teamcloud.am/live/eds/H2/SAF-HLS/H2.m3u8
+#EXTINF:-1 tvg-id="armenia-am-hd-orig" tvg-logo="https://i.ibb.co/YpGS1pS/SGN-04-13-2022-1649796240900.png" group-title="🇦🇲 АРМЕНИЯ",Armenia TV HD
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ncdn-y1-w3.teamcloud.am/live/eds/ArmeniaTV/SAF-HLS/ArmeniaTV.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/mbNfDT3/SGN-04-05-2022-1649186587952.png" group-title="🇦🇲 АРМЕНИЯ",PanArmenian TV HD
+https://us1.ottstream.live:17071/C279/index.m3u8?token=123TREWQ456
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/1KDxsXR/SGN-05-01-2022-1651413983093.png" group-title="🇦🇲 АРМЕНИЯ",USArmeniaTV HD
+http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
+#EXTINF:-1 tvg-id="arm-premium" tvg-logo="https://i.ibb.co/G9nqN7f/SGN-05-08-2022-1652038669927.png" group-title="🇦🇲 АРМЕНИЯ",Armenia Premium HD
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s83/04.m3u8
+#EXTINF:-1 tvg-id="hay-kino-am" tvg-logo="https://i.ibb.co/zm0q3pj/SGN-05-09-2022-1652040188384.png" group-title="🇦🇲 АРМЕНИЯ",Armenia HayKino
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s22/04.m3u8
+#EXTINF:-1 tvg-id="arm-jan-tv" tvg-logo="https://i.ibb.co/ZLs9XPh/SGN-05-09-2022-1652040851687.png" group-title="🇦🇲 АРМЕНИЯ",Armenia Jan TV
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s42/04.m3u8
+#EXTINF:-1 tvg-id="am-turtunik" tvg-logo="https://i.ibb.co/MZ6pRrj/SGN-05-09-2022-1652085054341.png" group-title="🇦🇲 АРМЕНИЯ",Armenia Tuntunik
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s46/04.m3u8
+#EXTINF:-1 tvg-id="arm-cineman" tvg-logo="https://i.ibb.co/7VgFwqx/SGN-05-09-2022-1652042732368.png" group-title="🇦🇲 АРМЕНИЯ",Armenia Cineman
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s66/04.m3u8
+#EXTINF:-1 tvg-id="shant-am" tvg-logo="https://i.ibb.co/pv01sPb/SGN-04-08-2022-1649407379507.png" group-title="🇦🇲 АРМЕНИЯ",Shant HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/ShantTV/SAF-HLS/ShantTV.m3u8
+#EXTINF:-1 tvg-id="shant-gyumri-am" tvg-logo="https://itvget.com/img.php?img=images/channels/9063.png" group-title="🇦🇲 АРМЕНИЯ",Shant Gyumri HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/Shant_Gyumri/SAF-HLS/Shant_Gyumri.m3u8
+#EXTINF:-1 tvg-id="atv-am-hd-orig" tvg-logo="https://i.ibb.co/tp0j3Z9/SGN-04-12-2022-1649771815830.png" group-title="🇦🇲 АРМЕНИЯ",ATV HD
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ncdn-y1-w3.teamcloud.am/live/eds/ATV/SAF-HLS/ATV.m3u8
+#EXTINF:-1 tvg-id="atv-kinoman" tvg-logo="https://i.ibb.co/QQVj7gH/SGN-04-10-2022-1649581968201.png" group-title="🇦🇲 АРМЕНИЯ",ATV Kinoman HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/KinomanTV/SAF-HLS/KinomanTV.m3u8
+#EXTINF:-1 tvg-id="atv-filmzone" tvg-logo="https://i.ibb.co/31cp1HC/SGN-04-10-2022-1649584896528.png" group-title="🇦🇲 АРМЕНИЯ",ATV Layfhaq HD
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ncdn-y1-w3.teamcloud.am/live/eds/Filmzon/SAF-HLS/Filmzon.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/j52c3km/SGN-05-22-2022-1653238659595.png" group-title="🇦🇲 АРМЕНИЯ",ATV Bazmoc HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/Bazmoc/SAF-HLS/Bazmoc.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/rv7GHRG/SGN-04-10-2022-1649582611494.png" group-title="🇦🇲 АРМЕНИЯ",ATV Xaghaliq HD
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ncdn-y1-w3.teamcloud.am/live/eds/Xaxaliq/SAF-HLS/Xaxaliq.m3u8
+#EXTINF:-1 tvg-id="atv-tava-am-hd" tvg-logo="https://i.ibb.co/KWdn9m2/SGN-04-10-2022-1649584694161.png" group-title="🇦🇲 АРМЕНИЯ",ATV Tava TV HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/TAVA_TV/SAF-HLS/TAVA_TV.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/PcjtRYS/SGN-04-10-2022-1649584080052.png" group-title="🇦🇲 АРМЕНИЯ",ATV Fitness HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/FitnesTV/SAF-HLS/FitnesTV.m3u8
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://i.ibb.co/qDSsD1s/SGN-04-10-2022-1649583259343.png" group-title="🇦🇲 АРМЕНИЯ",ATV Muzzone HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/MuzZone/SAF-HLS/MuzZone.m3u8
+#EXTINF:-1 tvg-id="am-hay-tv" tvg-logo="https://i.ibb.co/2PNGSCw/SGN-04-10-2022-1649586328422.png" group-title="🇦🇲 АРМЕНИЯ",ATV HayTV HD
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ncdn-y1-w3.teamcloud.am/live/eds/HAY_TV/SAF-HLS/HAY_TV.m3u8
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://i.ibb.co/hLcCTKF/SGN-04-13-2022-1649794514169.png" group-title="🇦🇲 АРМЕНИЯ",Fresh TV Armenia HD
+https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=armfilm-live
+#EXTINF:-1 tvg-id="song-tv" tvg-logo="https://i.ibb.co/3Cwn1Zx/SGN-04-13-2022-1649875763996.png" group-title="🇦🇲 АРМЕНИЯ",Song TV Armenia
+https://songtv.hls.iptvdc.com/web-armenia/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://i.ibb.co/6wc01wk/SGN-09-19-2024-1726696483495.png" group-title="🇦🇲 АРМЕНИЯ",Velary TV
+http://185.57.68.33/233/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="kentron-am-hd-orig" tvg-logo="http://itvget.com/img.php?img=images/channels/5577.png" group-title="🇦🇲 АРМЕНИЯ",Kentron TV HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/Kentron/SAF-HLS/Kentron.m3u8
+#EXTINF:-1 tvg-id="erkir-am" tvg-logo="http://itvget.com/img.php?img=images/channels/6490.png" group-title="🇦🇲 АРМЕНИЯ",Yerkir Media HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/ErkirMedia/SAF-HLS/ErkirMedia.m3u8
+#EXTINF:-1 tvg-id="nor-hayastan-am-hd-orig" tvg-logo="http://itvget.com/img.php?img=images/channels/6487.png" group-title="🇦🇲 АРМЕНИЯ",Nor Hayastan HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/NorHayastan/SAF-HLS/NorHayastan.m3u8
+#EXTINF:-1 tvg-id="5tv-am-hd-orig" tvg-logo="https://i.ibb.co/LPBdPys/SGN-12-18-2021-1639837933414.png" group-title="🇦🇲 АРМЕНИЯ",5TV HD
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ncdn-y1-w3.teamcloud.am/live/eds/5Aliq/SAF-HLS/5Aliq.m3u8
+#EXTINF:-1 tvg-id="5tv-am-hd-orig" tvg-logo="https://i.ibb.co/cNd3616/SGN-03-08-2022-1646748957859.png" group-title="🇦🇲 АРМЕНИЯ",5TV + HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/5Aliq_Plus/SAF-HLS/5Aliq_Plus.m3u8
+#EXTINF:-1 tvg-id="21tv-am-hd-orig" tvg-logo="https://i.ibb.co/bHmMHHC/SGN-12-18-2021-1639838172555.png" group-title="🇦🇲 АРМЕНИЯ",21TV HD
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ncdn-y1-w3.teamcloud.am/live/eds/DAR21TV/SAF-HLS/DAR21TV.m3u8
+#EXTINF:-1 tvg-id="shoghakat-am" tvg-logo="http://itvget.com/img.php?img=images/channels/6495.png" group-title="🇦🇲 АРМЕНИЯ",Shoxakat TV HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/ShogakatTV/SAF-HLS/ShogakatTV.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://itvget.com/img.php?img=images/channels/9052.png" group-title="🇦🇲 АРМЕНИЯ",Bun TV HD
+http://stream02.vnet.am/Armnews/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://i.ibb.co/Tm2q8wC/SGN-05-15-2022-1652605943203.png" group-title="🇦🇲 АРМЕНИЯ",ArmToon HD
+http://timeshift.arpinet.am/live4/armtoon_tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/1RvPbX5/SGN-03-26-2023-1679831136427.png" group-title="🇦🇲 АРМЕНИЯ",Ararat TV HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/AraratTV/SAF-HLS/AraratTV.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/R9Y6JQJ/1677936597095.png" group-title="🇦🇲 АРМЕНИЯ",Tavush TV HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/TavushTV/SAF-HLS/TavushTV.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/HKQRJJ4/1677927463307.png" group-title="🇦🇲 АРМЕНИЯ",Zangezur TV HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/ZangezurTV/SAF-HLS/ZangezurTV.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/RBG9r8p/1676198308829.png" group-title="🇦🇲 АРМЕНИЯ",Tsayg TV HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/CAYG/SAF-HLS/CAYG.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/qgg5SFf/SGN-12-18-2021-1639836283204.png" group-title="🇦🇲 АРМЕНИЯ",Kotayq TV
+http://ncdn-y1-w3.teamcloud.am/live/eds/KotaykTV/SAF-HLS/KotaykTV.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://itvget.com/img.php?img=images/channels/9069.png" group-title="🇦🇲 АРМЕНИЯ",Lori TV HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/LoriTV/SAF-HLS/LoriTV.m3u8
+#EXTINF:-1 tvg-id="delta-am-hd-orig" tvg-logo="https://itvget.com/img.php?img=images/channels/9073.png" group-title="🇦🇲 АРМЕНИЯ",Delta TV HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/DeltaTV/SAF-HLS/DeltaTV.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/4Pg84Rb/SGN-01-20-2025-1737387431183.png" group-title="🇦🇲 АРМЕНИЯ",Delta Travel HD
+http://185.177.104.228:8597/Delta-Travel_HD(+0)/index.m3u8
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://i.ibb.co/kmQRrSL/SGN-01-19-2025-1737309051188.png" group-title="🇦🇲 АРМЕНИЯ",Delta Music HD
+http://185.177.104.228:8598/Delta-Music_HD(+0)/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://itvget.com/img.php?img=images/channels/9083.png" group-title="🇦🇲 АРМЕНИЯ",Noyan Tapan HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/Noyan_Tapan/SAF-HLS/Noyan_Tapan.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/fD7Jj5B/SGN-08-12-2023-1691812402515.png" group-title="🇦🇲 АРМЕНИЯ",Geghama TV HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/Geghama/SAF-HLS/Geghama.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/P4wW8nY/SGN-04-23-2022-1650722711613.png" group-title="🇦🇲 АРМЕНИЯ",Armount TV
+https://de1.ottstream.live:17071/C352/index.m3u8?token=GGfkFV4$TXeZjt3i
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://itvget.com/img.php?img=images/channels/9081.png" group-title="🇦🇲 АРМЕНИЯ",Arma
+http://ncdn-y1-w3.teamcloud.am/live/eds/ArmaTV/SAF-HLS/ArmaTV.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://itvget.com/img.php?img=images/channels/9071.png" group-title="🇦🇲 АРМЕНИЯ",Fortuna TV HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/FortunaTV/SAF-HLS/FortunaTV.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://itvget.com/img.php?img=images/channels/9049.png" group-title="🇦🇲 АРМЕНИЯ",Nur TV HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/NurTV/SAF-HLS/NurTV.m3u8
+#EXTINF:-1 tvg-id="artn-am-hd" tvg-logo="https://i.ibb.co/2cT0K5X/SGN-03-26-2022-1648285677665.png" group-title="🇦🇲 АРМЕНИЯ",ARTN HD
+http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
+#EXTINF:-1 tvg-id="am-azatutyun" tvg-logo="https://i.ibb.co/Fmr4gG9/SGN-12-18-2021-1639837555217.png" group-title="🇦🇲 АРМЕНИЯ",Azatutyun TV HD
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ncdn-y1-w3.teamcloud.am/live/eds/AzatutyunTV/SAF-HLS/AzatutyunTV.m3u8
+#EXTINF:-1 tvg-id="free-news-am-hd-orig" tvg-logo="https://i.ibb.co/SK22dqp/SGN-09-12-2021-1631423421878.png" group-title="🇦🇲 АРМЕНИЯ",FreeNews HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/FreeNews/SAF-HLS/FreeNews.m3u8
+#EXTINF:-1 tvg-id="arm-news24-am-hd-orig" tvg-logo="http://itvget.com/img.php?img=images/channels/9067.png" group-title="🇦🇲 АРМЕНИЯ",ABnews HD
+http://80.86.231.162:8000/play/a00n/index.m3u8?token=hrach
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/3v8jQ2F/SGN-02-28-2024-1709066156204.png" group-title="🇦🇲 АРМЕНИЯ",ԼԱՅՄ GOLD TV
+https://v2.catcast.tv/content/40546/index.m3u8
+#EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://i.ibb.co/ZfpfB5s/267e4dcc3318899ae4480cbb9454261c.png" group-title="🇦🇲 АРМЕНИЯ",HGTN TV
+https://v2.catcast.tv/content/34251/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rt4gqgW/SGN-09-25-2024-1727290175497.png" group-title="🇷🇺 РОССИЯ",Первый Канал
+https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 tvg-id="pervyj-plus-2" tvg-logo="https://i.ibb.co/6tnCFpf/pervy-kanal-csi.png" group-title="🇷🇺 РОССИЯ",Первый Канал СНГ
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ncdn-y1-w3.teamcloud.am/live/eds/ORT/SAF-HLS/ORT.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bXvWR9G/SGN-09-25-2024-1727292515032.png" group-title="🇷🇺 РОССИЯ",Россия 1
+http://80.86.231.162:8000/play/a00u/index.m3u8?token=hrach
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hghT03s/SGN-12-02-2023-1701499178142.png" group-title="🇷🇺 РОССИЯ",Россия РТР
+http://ott-cdn.ucom.am/s15/04.m3u8
+#EXTINF:-1 tvg-id="vesti" tvg-logo="https://i.ibb.co/TWvfwdg/SGN-09-25-2024-1727292362863.png" group-title="🇷🇺 РОССИЯ",Россия 24
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ncdn-y1-w3.teamcloud.am/live/eds/ROSSIYA24/SAF-HLS/ROSSIYA24.m3u8
+#EXTINF:-1 tvg-id="kultura" tvg-logo="https://i.ibb.co/Ws7Kmgk/SGN-09-25-2024-1727292584313.png" group-title="🇷🇺 РОССИЯ",Россия K
+#EXTVLCOPT:http-user-agent=Mazilla.5.0/Wink/1.31(AndroidTV.7.1.1)HisWinkPlayer
+http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_YARL_ROSSIAK/variant.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RvjTDcm/SGN-08-28-2021-1630168084815.png" group-title="🇷🇺 РОССИЯ",НТВ HD
+#EXTVLCOPT:http-user-agent=Mazilla.5.0/Wink/1.31(AndroidTV.7.1.1)HisWinkPlayer
+http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_YARL_NTV/variant.m3u8
+#EXTINF:-1 tvg-id="ntv-mir" tvg-logo="https://i.ibb.co/kHq5d0z/20210825-021544.png" group-title="🇷🇺 РОССИЯ",НТВ Мир
+http://ncdn-y1-w3.teamcloud.am/live/eds/NTVMir/SAF-HLS/NTVMir.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TLZmJtj/SGN-04-24-2022-1650818736902.png" group-title="🇷🇺 РОССИЯ",НТВ Хит
+http://80.86.231.162:8000/play/a02t/index.m3u8?token=hrach
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kypL4FZ/SGN-04-28-2022-1651091811737.png" group-title="🇷🇺 РОССИЯ",НТВ Сериал
+http://ncdn-y1-w3.teamcloud.am/live/eds/NTV_Serial/SAF-HLS/NTV_Serial.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3TjQnTY/SGN-04-28-2022-1651092950448.png" group-title="🇷🇺 РОССИЯ",НТВ Право
+http://ncdn-y1-w3.teamcloud.am/live/eds/NTV_Pravo/SAF-HLS/NTV_Pravo.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1nYhGxh/SGN-09-25-2024-1727290469757.png" group-title="🇷🇺 РОССИЯ",СТС
+#EXTVLCOPT:http-user-agent=Mazilla.5.0/Wink/1.31(AndroidTV.7.1.1)HisWinkPlayer
+http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_YARL_STS/variant.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/12f8ZGg/SGN-08-04-2022-1659558506284.png" group-title="🇷🇺 РОССИЯ",СТС International
+http://ncdn-y1-w3.teamcloud.am/live/eds/STS/SAF-HLS/STS.m3u8
+#EXTINF:-1 group-title="🇷🇺 РОССИЯ",СТС Love
+http://s7.merlive.am/stslove/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wQkG3SJ/logo-ren-tv-600x694-1.png" group-title="🇷🇺 РОССИЯ",Рен ТВ
+#EXTVLCOPT:http-user-agent=Mazilla.5.0/Wink/1.31(AndroidTV.7.1.1)HisWinkPlayer
+http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_YARL_RENTV/variant.m3u8
+#EXTINF:-1 tvg-id="rentv-plus-4" tvg-logo="https://i.ibb.co/Z2xHPDZ/SGN-08-12-2023-1691819313580.png" group-title="🇷🇺 РОССИЯ",Рен ТВ International
+http://ncdn-y1-w3.teamcloud.am/live/eds/REN_TV/SAF-HLS/REN_TV.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gZsdjH0/SGN-08-24-2021-1629828937487.png" group-title="🇷🇺 РОССИЯ",ТНТ
+#EXTVLCOPT:http-user-agent=smartlabs
+http://80.86.231.162:8000/play/a01h/index.m3u8?token=hrach
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SvPn0Q8/logo-tnt4.png" group-title="🇷🇺 РОССИЯ",ТНТ4
+http://ncdn-y1-w3.teamcloud.am/live/eds/TNT4/SAF-HLS/TNT4.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YTZLF5c/TV-3-logo-2015.png" group-title="🇷🇺 РОССИЯ",ТВ3
+http://ncdn-y1-w3.teamcloud.am/live/eds/TB3/SAF-HLS/TB3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7WJLg4W/1200px-Logo-5-Channel-svg.png" group-title="🇷🇺 РОССИЯ",Пятый канал
+http://ncdn-y1-w3.teamcloud.am/live/eds/5_Kanal/SAF-HLS/5_Kanal.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qd4D70V/6.png" group-title="🇷🇺 РОССИЯ",8 канал
+http://ncdn-y1-w3.teamcloud.am/live/eds/8_Kanal/SAF-HLS/8_Kanal.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sqs6NGf/SGN-08-24-2021-1629832243377.png" group-title="🇷🇺 РОССИЯ",Домашний
+http://ncdn-y1-w3.teamcloud.am/live/eds/DOMASHNIY/SAF-HLS/DOMASHNIY.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m8JG6cz/SGN-08-24-2021-1629832072821.png" group-title="🇷🇺 РОССИЯ",Пятница HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/Pyatnica/SAF-HLS/Pyatnica.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pJGKq1y/SGN-04-02-2022-1648899315323.png" group-title="🇷🇺 РОССИЯ",ТВЦ
+http://ncdn-y1-w3.teamcloud.am/live/eds/TVC/SAF-HLS/TVC.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pL2BJr5/SGN-05-21-2022-1653161530992.png" group-title="🇷🇺 РОССИЯ",Перец
+http://ncdn-y1-w3.teamcloud.am/live/eds/Peretz/SAF-HLS/Peretz.m3u8
+#EXTINF:-1 group-title="🇷🇺 РОССИЯ",Че
+http://s7.merlive.am/Che/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jTqQz9s/630px-Red-star-svg.png" group-title="🇷🇺 РОССИЯ",Звезда
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R6yJdLN/SGN-10-21-2023-1697873530356.png" group-title="🇷🇺 РОССИЯ",Звезда плюс
+http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist_hdlow.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H2BM1YY/SGN-08-24-2021-1629833733963.png" group-title="🇷🇺 РОССИЯ",Суббота
+http://80.86.231.162:8000/play/a02d/index.m3u8?token=hrach
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tHCtjMS/SGN-09-18-2021-1631953339402.png" group-title="🇷🇺 РОССИЯ",Ю ТВ
+#EXTVLCOPT:http-user-agent=Mazilla.5.0/Wink/1.31(AndroidTV.7.1.1)HisWinkPlayer
+http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bN6xyMp/Polish-20210828-205932481.png" group-title="🇷🇺 РОССИЯ",Мир
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0tn9qcr/mir-24-main-logo.png" group-title="🇷🇺 РОССИЯ",Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5Fd5wBw/SGN-10-27-2024-1730052347333.png" group-title="🇷🇺 РОССИЯ",Сарафан
+http://ncdn-y1-w3.teamcloud.am/live/eds/Sarafan/SAF-HLS/Sarafan.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r6VNFMJ/SGN-09-23-2024-1727118439472.png" group-title="🇷🇺 РОССИЯ",Время
+http://ncdn-y1-w3.teamcloud.am/live/eds/Vremya/SAF-HLS/Vremya.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/FV0yrhR/SGN-03-30-2024-1711828783428.png" group-title="🇷🇺 РОССИЯ",ЦТВ
+http://ncdn-y1-w3.teamcloud.am/live/eds/CTV/SAF-HLS/CTV.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/34skMrZ/SGN-09-23-2024-1727118597299.png" group-title="🇷🇺 РОССИЯ",Известия
+http://ncdn-y1-w3.teamcloud.am/live/eds/Izvestiya/SAF-HLS/Izvestiya.m3u8
+#EXTINF:-1 group-title="🎬 ФИЛЬМОВЫЕ",Cinema
+http://s7.merlive.am:80/sinema/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fb83xk7/SGN-04-13-2022-1649867076620.png" group-title="🎬 ФИЛЬМОВЫЕ",Кинопремьера HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/KinopremieraHD/SAF-HLS/KinopremieraHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VJZntxx/SGN-04-13-2022-1649868832431.png" group-title="🎬 ФИЛЬМОВЫЕ",Киносерия
+http://ncdn-y1-w3.teamcloud.am/live/eds/Kinoseriya/SAF-HLS/Kinoseriya.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jyvx87Z/SGN-04-13-2022-1649868000072.png" group-title="🎬 ФИЛЬМОВЫЕ",Киносемья
+http://ncdn-y1-w3.teamcloud.am/live/eds/Kinosemya/SAF-HLS/Kinosemya.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KyWp1h8/SGN-04-13-2022-1649869124992.png" group-title="🎬 ФИЛЬМОВЫЕ",Кинокомедия
+http://80.86.231.162:8000/play/a01t/index.m3u8?token=hrach
+#EXTINF:-1 tvg-logo="https://i.ibb.co/47dRpWT/SGN-04-13-2022-1649869400323.png" group-title="🎬 ФИЛЬМОВЫЕ",Киносвидание
+http://ncdn-y1-w3.teamcloud.am/live/eds/Kinosvidanie/SAF-HLS/Kinosvidanie.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R3LFhP2/SGN-04-13-2022-1649869819771.png" group-title="🎬 ФИЛЬМОВЫЕ",Киномикс
+http://ncdn-y1-w3.teamcloud.am/live/eds/Kinomix/SAF-HLS/Kinomix.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bPYT1qb/SGN-04-13-2022-1649869856539.png" group-title="🎬 ФИЛЬМОВЫЕ",Кинохит
+http://ncdn-y1-w3.teamcloud.am/live/eds/Kinohit/SAF-HLS/Kinohit.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3pJC5Jt/SGN-05-05-2022-1651773173010.png" group-title="🎬 ФИЛЬМОВЫЕ",Киноужас HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/Kinoujas/SAF-HLS/Kinoujas.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yt9rjyV/SGN-04-13-2022-1649871637396.png" group-title="🎬 ФИЛЬМОВЫЕ",Мужское кино
+http://ncdn-y1-w3.teamcloud.am/live/eds/Mujskoe_Kino/SAF-HLS/Mujskoe_Kino.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YRPvG5g/SGN-04-21-2022-1650492928198.png" group-title="🎬 ФИЛЬМОВЫЕ",Наше новое кино
+http://ncdn-y1-w3.teamcloud.am/live/eds/Nashe_Novoe_Kino/SAF-HLS/Nashe_Novoe_Kino.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8bKNRC8/SGN-04-13-2022-1649871804758.png" group-title="🎬 ФИЛЬМОВЫЕ",Родное кино
+http://ncdn-y1-w3.teamcloud.am/live/eds/Rodnoe_Kino/SAF-HLS/Rodnoe_Kino.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FzSrJNd/SGN-04-13-2022-1649870866716.png" group-title="🎬 ФИЛЬМОВЫЕ",Индийское кино
+http://ncdn-y1-w3.teamcloud.am/live/eds/Indiiskoe_Kino/SAF-HLS/Indiiskoe_Kino.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9hYkQgK/SGN-04-16-2022-1650106487474.png" group-title="🎬 ФИЛЬМОВЫЕ",viju+ Premiere HD
+http://80.86.231.162:8000/play/a02l/index.m3u8?token=hrach
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tmSGh97/SGN-04-16-2022-1650106691250.png" group-title="🎬 ФИЛЬМОВЫЕ",viju+ Megahit HD
+http://80.86.231.162:8000/play/a03b/index.m3u8?token=hrach
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QCpF43f/SGN-04-22-2022-1650572918807.png" group-title="🎬 ФИЛЬМОВЫЕ",viju+ Comedy HD
+http://80.86.231.162:8000/play/a01z/index.m3u8?token=hrach
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qmBGKS4/SGN-04-14-2022-1649961083635.png" group-title="🎬 ФИЛЬМОВЫЕ",viju TV1000
+http://ncdn-y1-w3.teamcloud.am/live/eds/TV1000/SAF-HLS/TV1000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y3Hp0qq/SGN-04-14-2022-1649960604920.png" group-title="🎬 ФИЛЬМОВЫЕ",viju TV1000 Action
+http://ncdn-y1-w3.teamcloud.am/live/eds/TV1000Action/SAF-HLS/TV1000Action.m3u8
+#EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-logo="https://i.ibb.co/02RTmSf/SGN-04-14-2022-1649961706462.png" group-title="🎬 ФИЛЬМОВЫЕ",viju TV1000 Русское кино
+http://ncdn-y1-w3.teamcloud.am/live/eds/TV1000Russ/SAF-HLS/TV1000Russ.m3u8
+#EXTINF:-1 tvg-id="amedia1" tvg-logo="https://i.ibb.co/yPsjxKr/SGN-04-23-2022-1650706530053.png" group-title="🎬 ФИЛЬМОВЫЕ",Amedia 1
+#EXTVLCOPT:http-user-agent=smartlabs
+http://80.86.231.162:8000/play/a01u/index.m3u8?token=hrach
+#EXTINF:-1 tvg-id="amedia2" tvg-logo="https://i.ibb.co/HBgnffT/SGN-04-22-2022-1650573458384.png" group-title="🎬 ФИЛЬМОВЫЕ",Amedia 2
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s33/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dbxjGj3/SGN-04-21-2022-1650562064221.png" group-title="🎬 ФИЛЬМОВЫЕ",Русский Иллюзион
+http://80.86.231.162:8000/play/a02o/index.m3u8?token=hrach
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R01z255/SGN-04-21-2022-1650561313087.png" group-title="🎬 ФИЛЬМОВЫЕ",Иллюзион+
+http://ncdn-y1-w3.teamcloud.am/live/eds/Illuzion_Plus/SAF-HLS/Illuzion_Plus.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SsLQQsd/SGN-04-21-2022-1650563225893.png" group-title="🎬 ФИЛЬМОВЫЕ",Русский роман
+http://stream01.vnet.am/RusskiyRoman/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KxdYps6/SGN-04-21-2022-1650568730258.png" group-title="🎬 ФИЛЬМОВЫЕ",Дом кино
+http://ncdn-y1-w3.teamcloud.am/live/eds/Dom_Kino/SAF-HLS/Dom_Kino.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2W9ZZF/SGN-04-21-2022-1650569146972.png" group-title="🎬 ФИЛЬМОВЫЕ",Дом Кино Премиум HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/Dom_Kino_Premium/SAF-HLS/Dom_Kino_Premium.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mB5bp2y/SGN-04-21-2022-1650567972161.png" group-title="🎬 ФИЛЬМОВЫЕ",Любимое кино
+http://ncdn-y1-w3.teamcloud.am/live/eds/Lubimoe_Kino/SAF-HLS/Lubimoe_Kino.m3u8
+#EXTINF:-1 group-title="🎬 ФИЛЬМОВЫЕ",Мосфильм. Золотая коллекция
+http://s7.merlive.am/mosfilm/index.m3u8
+#EXTINF:-1 tvg-id="arsenaltv" tvg-logo="https://i.ibb.co/HN1ygw1/SGN-11-20-2021-1637401758311.png" group-title="🎬 ФИЛЬМОВЫЕ",Арсенал
+http://ncdn-y1-w3.teamcloud.am/live/eds/ARSENAL_HD/SAF-HLS/ARSENAL_HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XpzS9rK/SGN-08-17-2024-1723845940384.png[/img" group-title="🎬 ФИЛЬМОВЫЕ",ТВ 21
+http://ncdn-y1-w3.teamcloud.am/live/eds/TVXXl/SAF-HLS/TVXXl.m3u8
+#EXTINF:-1 group-title="🎬 ФИЛЬМОВЫЕ",Fox
+http://45.159.74.14/Fox/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wBtDFNX/SGN-04-22-2022-1650574707456.png" group-title="🎬 ФИЛЬМОВЫЕ",Еврокино
+http://ncdn-y1-w3.teamcloud.am/live/eds/Eurokino/SAF-HLS/Eurokino.m3u8
+#EXTINF:-1 tvg-id="zee-tv" tvg-logo="https://i.ibb.co/TwyC4Zn/SGN-06-17-2023-1686952752921.png" group-title="🎬 ФИЛЬМОВЫЕ",Индия HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/ZeeTV/SAF-HLS/ZeeTV.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/41JDQt1/SGN-08-27-2023-1693133746478.png" group-title="🎬 ФИЛЬМОВЫЕ",Bollywood HD
+http://80.86.231.162:8000/play/a01j/index.m3u8?token=hrach
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RCMt41B/SGN-08-28-2021-1630148287150.png" group-title="🎬 ФИЛЬМОВЫЕ",Hollywood HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/Hwollywood_HD/SAF-HLS/Hwollywood_HD.m3u8
+#EXTINF:-1 tvg-id="filmbox-ru" tvg-logo="https://i.ibb.co/KKwQKY1/SGN-08-28-2021-1630146774342.png" group-title="🎬 ФИЛЬМОВЫЕ",FilmBox
+http://ncdn-y1-w3.teamcloud.am/live/eds/FilmBox/SAF-HLS/FilmBox.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZLP5q7s/SGN-09-18-2021-1631972670125.png" group-title="🎬 ФИЛЬМОВЫЕ",FilmBox Arthouse
+http://ncdn-y1-w3.teamcloud.am/live/eds/FilmBox_Arthouse/SAF-HLS/FilmBox_Arthouse.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SPHFLnL/SGN-08-28-2021-1630146944425.png" group-title="🎬 ФИЛЬМОВЫЕ",Star Cinema
+http://ncdn-y1-w3.teamcloud.am/live/eds/Star_Cinema/SAF-HLS/Star_Cinema.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0K4vXD/SGN-08-28-2021-1630147079176.png" group-title="🎬 ФИЛЬМОВЫЕ",Star Family
+http://ncdn-y1-w3.teamcloud.am/live/eds/StarFamily/SAF-HLS/StarFamily.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FsRXHLp/SGN-06-11-2022-1654973645461.png" group-title="🎬 ФИЛЬМОВЫЕ",Film.UA Drama
+http://ncdn-y1-w3.teamcloud.am/live/eds/Film_UA_Drama/SAF-HLS/Film_UA_Drama.m3u8
+#EXTINF:-1 group-title="🎬 ФИЛЬМОВЫЕ",НСТ
+http://stream01.vnet.am/Channel_125/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TYpWWq9/SGN-06-05-2022-1654420470372.png" group-title="🎬 ФИЛЬМОВЫЕ",Bolt
+http://ncdn-y1-w3.teamcloud.am/live/eds/Bolt_HD/SAF-HLS/Bolt_HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DGDfbF7/SGN-04-24-2022-1650791158375.png" group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",Nat Geo Wild HD
+http://stream02.vnet.am/NatGeoWild/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yPrcwNv/SGN-04-24-2022-1650789614240.png" group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",National Geographic HD
+https://stream02.vnet.am/NationalGeographic/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LS6YHSy/SGN-09-25-2024-1727291986781.png" group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",Animal Planet HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/Animal_Planet/SAF-HLS/Animal_Planet.m3u8
+#EXTINF:-1 tvg-id="zootv" tvg-logo="https://i.ibb.co/gRd44nd/250.png" group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",Зоо ТВ
+http://ncdn-y1-w3.teamcloud.am/live/eds/ZOO/SAF-HLS/ZOO.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qp6KNzY/SGN-07-12-2023-1689182695723.png" group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",Зоопарк
+http://80.86.231.162:8000/play/a02n/tracks-v1a1/mono.m3u8?token=hrach
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c3VKRLj/SGN-08-29-2021-1630262983108.png" group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",В мире животных HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/V_mire_Jivotnix/SAF-HLS/V_mire_Jivotnix.m3u8
+#EXTINF:-1 group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",Дикая охота HD
+http://stream01.vnet.am/Channel_127/mono.m3u8
+#EXTINF:-1 group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",Дикая рыбалка HD
+http://stream01.vnet.am/Channel_126/mono.m3u8
+#EXTINF:-1 group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",Рыболов
+http://95.183.43.237:8080/239/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/4Z2hQ1hy/SGN-02-13-2025-1739396140111.png" group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",Prosto Fishing
+http://iptv.prosto.tv:7000/ch344/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VJh1h2M/SGN-04-26-2022-1650922560342.png" group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",Моя планета
+http://80.86.231.162:8000/play/a02m/index.m3u8?token=hrach
+#EXTINF:-1 tvg-id="teleputeshestvia" tvg-logo="https://i.ibb.co/VLY2zXb/5ef1dd59d1677.png" group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",Телепутешествия
+http://ncdn-y1-w3.teamcloud.am/live/eds/Teleputeshestviya/SAF-HLS/Teleputeshestviya.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y4s0jWV/SGN-08-31-2021-1630355743543.png" group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",Приключения HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/Prikluchniya/SAF-HLS/Prikluchniya.m3u8
+#EXTINF:-1 group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",Глазами туриста HD
+http://s7.merlive.am/glazamituristahd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0QScGWd/SGN-04-25-2022-1650910980487.png" group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",Первый космический
+http://ncdn-y1-w3.teamcloud.am/live/eds/Evrika_HD/SAF-HLS/Evrika_HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kMVK4Yv/SGN-10-27-2024-1730052885410.png" group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",Galaxy
+http://ncdn-y1-w3.teamcloud.am/live/eds/Galaxy/SAF-HLS/Galaxy.m3u8
+#EXTINF:-1 group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",Большая Азия HD
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1zzv7TF/1670352450250.png" group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",КВН ТВ
+http://ncdn-y1-w3.teamcloud.am/live/eds/KVN_TV/SAF-HLS/KVN_TV.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Bj8xJX3/SGN-06-25-2022-1656147874672.png" group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",Вопросы и ответы
+http://ncdn-y1-w3.teamcloud.am/live/eds/Voprosy_i_otvety/SAF-HLS/Voprosy_i_otvety.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fnkRZQy/SGN-06-25-2022-1656148094087.png" group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",Кто есть кто
+http://ncdn-y1-w3.teamcloud.am/live/eds/ktoestkto/SAF-HLS/ktoestkto.m3u8
+#EXTINF:-1 group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",Кто куда
+http://s7.merlive.am/ktokuda/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9YFGDgf/SGN-05-07-2023-1683484838528.png" group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",Museum HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/MuseumHD/SAF-HLS/MuseumHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8P5t7LP/SGN-01-28-2022-1643359231945.png" group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",Техно 24
+http://ncdn-y1-w3.teamcloud.am/live/eds/DTX/SAF-HLS/DTX.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vC7Chj/SGN-09-18-2021-1631955298378.png" group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",Da Vinci
+http://ncdn-y1-w3.teamcloud.am/live/eds/DaVinci/SAF-HLS/DaVinci.m3u8
+#EXTINF:-1 tvg-id="2800" tvg-logo="https://i.ibb.co/7ypXwph/SGN-06-25-2022-1656148296539.png" group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",Insight TV HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/Insight_HD/SAF-HLS/Insight_HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yFjcD83/SGN-08-31-2021-1630439325600.png" group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",Travel channel
+http://ncdn-y1-w3.teamcloud.am/live/eds/Travel_channel/SAF-HLS/Travel_channel.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w6dvq97/SGN-09-25-2024-1727293540136.png" group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",TLC
+http://ncdn-y1-w3.teamcloud.am/live/eds/TLC/SAF-HLS/TLC.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0JvRZnY/SGN-06-25-2022-1656148811521.png" group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",RTG TV
+http://ncdn-y1-w3.teamcloud.am/live/eds/Russian_Travel_Guide/SAF-HLS/Russian_Travel_Guide.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Zxjvm1Q/SGN-10-17-2021-1634435789706.png" group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",RTG HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/RTG_HD/SAF-HLS/RTG_HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gw2XRTj/SGN-12-26-2021-1640470177409.png" group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",RTД
+http://ncdn-y1-w3.teamcloud.am/live/eds/RT_Doc_HD/SAF-HLS/RT_Doc_HD.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1154.png" group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",HDL
+http://ncdn-y1-w3.teamcloud.am/live/eds/HDLife/SAF-HLS/HDLife.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/YPy5ZcK/SGN-03-31-2024-1711829242516.png" group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",HGTV
+http://ncdn-y1-w3.teamcloud.am/live/eds/HGTV/SAF-HLS/HGTV.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m97FWrC/SGN-01-08-2022-1641649676440.png" group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",Fast&FunBOX HD
+http://ott-cdn.ucom.am/s79/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mp9cFTs/SGN-01-28-2022-1643373975709.png" group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",DocuBox HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/DocuBox_HD/SAF-HLS/DocuBox_HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nBzJYb6/SGN-04-24-2022-1650805737766.png" group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",Discovery Channel
+http://ncdn-y1-w3.teamcloud.am/live/eds/Discovery/SAF-HLS/Discovery.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyZ3kDG/SGN-09-01-2021-1630441783693.png" group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",Investigation Discovery
+http://ncdn-y1-w3.teamcloud.am/live/eds/IDX/SAF-HLS/IDX.m3u8
+#EXTINF:-1 group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",viju+ Planet HD
+http://s7.merlive.am/vijuplanet/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YXwXpx/SGN-09-01-2021-1630442252771.png" group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",viju Nature
+http://ncdn-y1-w3.teamcloud.am/live/eds/Viasat_Nature/SAF-HLS/Viasat_Nature.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q8txWBS/SGN-09-01-2021-1630442389758.png" group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",viju Explore
+http://ncdn-y1-w3.teamcloud.am/live/eds/Viasat_Explore/SAF-HLS/Viasat_Explore.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5FBNcX2/SGN-09-01-2021-1630442527100.png" group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",viju History
+http://ncdn-y1-w3.teamcloud.am/live/eds/Viasat_history/SAF-HLS/Viasat_history.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b2XvNDZ/SGN-09-01-2021-1630442705818.png" group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",History HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/History_HD/SAF-HLS/History_HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x7WTcSH/SGN-09-01-2021-1630442871471.png" group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",History 2 HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/History_2_HD/SAF-HLS/History_2_HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4dWJBpP/SGN-09-06-2021-1630955588910.png" group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",Наука 2.0 HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/Discovery_Science/SAF-HLS/Discovery_Science.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Zzwc0ss/SGN-01-18-2025-1737203504413.png" group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",Поехали!
+http://ncdn-y1-w3.teamcloud.am/live/eds/Poexali/SAF-HLS/Poexali.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xq8DH3x/SGN-07-30-2023-1690705928972.png" group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",Кухня ТВ
+http://ncdn-y1-w3.teamcloud.am/live/eds/Kuxnya_TV/SAF-HLS/Kuxnya_TV.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ncynx4h/SGN-07-30-2023-1690706424972.png" group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",Драйв
+http://ncdn-y1-w3.teamcloud.am/live/eds/Drive/SAF-HLS/Drive.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h79kBLF/SGN-07-30-2023-1690706036082.png" group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",Авто плюс
+http://ncdn-y1-w3.teamcloud.am/live/eds/Avto_Plus/SAF-HLS/Avto_Plus.m3u8
+#EXTINF:-1 group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",Совершенно секретно
+http://s7.merlive.am/sovershennosekretno/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3dfbYC3/SGN-10-27-2024-1730054113827.png" group-title="🌍 ПОЗНАВАТЕЛЬНЫЕ",Живи
+http://ncdn-y1-w3.teamcloud.am/live/eds/Jivi/SAF-HLS/Jivi.m3u8
+#EXTINF:-1 tvg-id="vmedia-am-hd" tvg-logo="https://i.ibb.co/6WyX09Y/SGN-06-12-2023-1686518839800.png" group-title="⚽ СПОРТ",Fast Sports HD
+http://stream01.vnet.am/Channel_131/mono.m3u8
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://i.ibb.co/3znYzcr/SGN-04-30-2024-1714506088696.png" group-title="⚽ СПОРТ",Матч! HD
+http://80.86.231.162:8000/play/a00f/index.m3u8?token=hrach
+#EXTINF:-1 tvg-id="2044" tvg-logo="https://i.ibb.co/jh19YNc/SGN-04-30-2024-1714507037627.png" group-title="⚽ СПОРТ",Матч! Футбол 1
+http://80.86.231.162:8000/play/a00a/index.m3u8?token=hrach
+#EXTINF:-1 tvg-id="1042" tvg-logo="https://i.ibb.co/D8wNB6g/SGN-04-30-2024-1714506545718.png" group-title="⚽ СПОРТ",Матч! Футбол 2
+http://80.86.231.162:8000/play/a00b/index.m3u8?token=hrach
+#EXTINF:-1 tvg-id="2005" tvg-logo="https://i.ibb.co/q03HC1s/SGN-04-30-2024-1714506920735.png" group-title="⚽ СПОРТ",Матч! Футбол 3
+http://80.86.231.162:8000/play/a00c/index.m3u8?token=hrach
+#EXTINF:-1 tvg-id="2003" tvg-logo="https://i.ibb.co/1my00dm/SGN-05-01-2024-1714509084788.png" group-title="⚽ СПОРТ",Матч! Арена HD
+http://80.86.231.162:8000/play/a00d/tracks-v1a1/index.m3u8?token=hrach
+#EXTINF:-1 tvg-id="2050" tvg-logo="https://i.ibb.co/wcXPfcB/SGN-05-01-2024-1714510267373.png" group-title="⚽ СПОРТ",Матч! Игра HD
+http://80.86.231.162:8000/play/a01k/index.m3u8?token=hrach
+#EXTINF:-1 tvg-id="2043" tvg-logo="https://i.ibb.co/LCpV42z/SGN-05-01-2024-1714511319176.png" group-title="⚽ СПОРТ",Матч! Планета HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/Match_Planeta/SAF-HLS/Match_Planeta.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dcjD1Ty/SGN-05-01-2024-1714512209001.png" group-title="⚽ СПОРТ",Матч! Страна HD
+http://s7.merlive.am/matchstrana/index.m3u8
+#EXTINF:-1 tvg-id="2250" tvg-logo="https://i.ibb.co/0YvJtVC/SGN-05-01-2024-1714512024094.png" group-title="⚽ СПОРТ",Матч Приемьер HD
+http://80.86.231.162:8000/play/a00e/index.m3u8?token=hrach
+#EXTINF:-1 tvg-id="2054" tvg-logo="https://i.ibb.co/LC8JPCD/SGN-09-18-2021-1631947498955.png" group-title="⚽ СПОРТ",Матч! Боец HD
+http://80.86.231.162:8000/play/a00r/index.m3u8?token=hrach
+#EXTINF:-1 tvg-id="2285" tvg-logo="https://i.ibb.co/0mjk4g2/SGN-04-29-2022-1651179362449.png" group-title="⚽ СПОРТ",Бокс ТВ HD
+http://stream01.vnet.am/BoksTv/mono.m3u8
+#EXTINF:-1 tvg-id="m1global" tvg-logo="https://i.ibb.co/HPznvFd/SGN-12-21-2024-1734791948676.png" group-title="⚽ СПОРТ",MMA-TV
+http://ncdn-y1-w3.teamcloud.am/live/eds/M-1_Global/SAF-HLS/M-1_Global.m3u8
+#EXTINF:-1 tvg-id="kxl" tvg-logo="https://i.ibb.co/pQtr6Cv/SGN-09-01-2021-1630445665436.png" group-title="⚽ СПОРТ",KHL HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/KXL/SAF-HLS/KXL.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ss7D8f/SGN-04-30-2022-1651317024700.png" group-title="⚽ СПОРТ",Viju+ Sport
+http://ncdn-y1-w3.teamcloud.am/live/eds/Viasat_Sport/SAF-HLS/Viasat_Sport.m3u8
+#EXTINF:-1 group-title="⚽ СПОРТ",Беларусь 5 HD
+https://edge53.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/chunklist_w1049318557_b2660000_sleng.m3u8
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://i.ibb.co/NLLNSMr/SGN-01-01-2025-1735721504159.png" group-title="⚽ СПОРТ",Online TV
+http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bHXx49V/SGN-04-24-2022-1650822758887.png" group-title="⚽ СПОРТ",Eurosport 1 HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/Eurosport_1_HD/SAF-HLS/Eurosport_1_HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PtTyg1p/SGN-04-24-2022-1650822143442.png" group-title="⚽ СПОРТ",Eurosport 2 HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/Eurosport_2_HD/SAF-HLS/Eurosport_2_HD.m3u8
+#EXTINF:-1 group-title="⚽ СПОРТ",Конный мир
+https://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://i.ibb.co/c2KmRws/SGN-06-24-2023-1687593481705.png" group-title="🦊 МУЛЬТСЕРИАЛЫ",Том и Джерри
+http://78.159.119.122:2082/Tourobox3-HJVyPwnTXB/hhYbrTCJ9e/733
+#EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://i.ibb.co/0sr91LF/SGN-06-29-2023-1688056489252.png" group-title="🦊 МУЛЬТСЕРИАЛЫ",Маша и медведь
+http://78.159.119.122:2082/Tourobox3-HJVyPwnTXB/hhYbrTCJ9e/702
+#EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://i.ibb.co/4WT4kfY/SGN-01-05-2025-1736026952944.png" group-title="🦊 МУЛЬТСЕРИАЛЫ",Тимон и Пумба
+http://78.159.119.122:2082/Tourobox3-HJVyPwnTXB/hhYbrTCJ9e/731
+#EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://i.ibb.co/h86fjgr/SGN-01-08-2025-1736346592512.png" group-title="🦊 МУЛЬТСЕРИАЛЫ",Вуди Вудпекер
+http://78.159.119.122:2082/Tourobox3-HJVyPwnTXB/hhYbrTCJ9e/716
+#EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://i.ibb.co/XX8w3Y9/SGN-01-08-2025-1736346362583.png" group-title="🦊 МУЛЬТСЕРИАЛЫ",Багз Банни
+http://78.159.119.122:2082/Tourobox3-HJVyPwnTXB/hhYbrTCJ9e/715
+#EXTINF:-1 group-title="🐸 ДЕТСКИЕ",Мульт
+http://stream01.vnet.am/Mult/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sR8T0Km/SGN-05-07-2023-1683481361756.png" group-title="🐸 ДЕТСКИЕ",СТС Kids
+http://ncdn-y1-w3.teamcloud.am/live/eds/STS_Kids/SAF-HLS/STS_Kids.m3u8
+#EXTINF:-1 tvg-id="malysh" group-title="🐸 ДЕТСКИЕ",Малыш
+http://ncdn-y1-w3.teamcloud.am/live/eds/Malish/SAF-HLS/Malish.m3u8
+#EXTINF:-1 group-title="🐸 ДЕТСКИЕ",Рыжий
+http://ncdn-y1-w3.teamcloud.am/live/eds/RYZHIY/SAF-HLS/RYZHIY.m3u8
+#EXTINF:-1 group-title="🐸 ДЕТСКИЕ",TiJi
+http://ncdn-y1-w3.teamcloud.am/live/eds/TiJi/SAF-HLS/TiJi.m3u8
+#EXTINF:-1 group-title="🐸 ДЕТСКИЕ",Мама
+http://stream01.vnet.am/Mama/mono.m3u8
+#EXTINF:-1 group-title="🐸 ДЕТСКИЕ",2x2
+http://80.86.231.162:8000/play/a02b/index.m3u8?token=hrach
+#EXTINF:-1 group-title="🐸 ДЕТСКИЕ",Детский мир
+http://ncdn-y1-w3.teamcloud.am/live/eds/Detskii_Mir/SAF-HLS/Detskii_Mir.m3u8
+#EXTINF:-1 group-title="🐸 ДЕТСКИЕ",Cartoonito
+http://stream01.vnet.am/Channel_120/mono.m3u8
+#EXTINF:-1 group-title="🐸 ДЕТСКИЕ",Nickelodeon
+http://stream01.vnet.am/Channel_114/mono.m3u8
+#EXTINF:-1 group-title="🐸 ДЕТСКИЕ",Капитан Фантастика HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/Kapitan_fantastika/SAF-HLS/Kapitan_fantastika.m3u8
+#EXTINF:-1 group-title="🎶 МУЗЫКАЛЬНЫЕ",Муз ТВ
+http://ncdn-y1-w3.teamcloud.am/live/eds/Muz_TV/SAF-HLS/Muz_TV.m3u8
+#EXTINF:-1 tvg-id="no_epg_music" group-title="🎶 МУЗЫКАЛЬНЫЕ",MIXM TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/181490.m3u8
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://i.ibb.co/7bzwr4H/SGN-01-18-2025-1737204381113.png" group-title="🎶 МУЗЫКАЛЬНЫЕ",VIVA Music Russia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/180805.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JHqzvLB/SGN-05-07-2023-1683481859112.png" group-title="🎶 МУЗЫКАЛЬНЫЕ",ТНТ Music
+http://ncdn-y1-w3.teamcloud.am/live/eds/TNT_Music/SAF-HLS/TNT_Music.m3u8
+#EXTINF:-1 group-title="🎶 МУЗЫКАЛЬНЫЕ",Шансон ТВ
+http://ncdn-y1-w3.teamcloud.am/live/eds/CHANSON/SAF-HLS/CHANSON.m3u8
+#EXTINF:-1 group-title="🎶 МУЗЫКАЛЬНЫЕ",Bridge
+http://ncdn-y1-w3.teamcloud.am/live/eds/BRIDGE_TV/SAF-HLS/BRIDGE_TV.m3u8
+#EXTINF:-1 group-title="🎶 МУЗЫКАЛЬНЫЕ",Bridge Hits
+http://ncdn-y1-w3.teamcloud.am/live/eds/BridgeTV_Hits/SAF-HLS/BridgeTV_Hits.m3u8
+#EXTINF:-1 group-title="🎶 МУЗЫКАЛЬНЫЕ",Bridge Deluxe HD
+http://ncdn-y1-w3.teamcloud.am/live/eds/BridgeTV_Deluxe/SAF-HLS/BridgeTV_Deluxe.m3u8
+#EXTINF:-1 group-title="🎶 МУЗЫКАЛЬНЫЕ",О2ТВ
+http://s7.merlive.am/o2tv/index.m3u8
+#EXTINF:-1 group-title="🎶 МУЗЫКАЛЬНЫЕ",TMF RUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/201891.m3u8
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://i.ibb.co/0K73Hmj/av-1499153-llgo-transformed.png" group-title="🎶 МУЗЫКАЛЬНЫЕ",Hot Beats TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/191858.m3u8
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://lh4.ggpht.com/usGW8vwiQGrEH6OH6kLgVrXAqJlqzcmm1qnkwQ3AnHywhA73Hs8vVOxd1_qfv720y4M" group-title="🎶 МУЗЫКАЛЬНЫЕ",Techno Dance Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/180509.m3u8
+#EXTINF:-1 group-title="🎶 МУЗЫКАЛЬНЫЕ",Mezzo
+http://ncdn-y1-w3.teamcloud.am/live/eds/Mezzo/SAF-HLS/Mezzo.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="http://1lot.tv/ch/9043.png" catchup-days="1" catchup-type="flussonic" group-title="📽️ КИНОЗАЛ SKY2000",Sky2000 Horror HD
+http://r.faola.li/9043/video.m3u8?token=o92qWYCW1a
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="http://1lot.tv/ch/9042.png" catchup-days="1" catchup-type="flussonic" group-title="📽️ КИНОЗАЛ SKY2000",Sky2000 Fantastic HD
+http://r.faola.li/9042/video.m3u8?token=o92qWYCW1a
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="http://1lot.tv/ch/6813.png" catchup-days="2" catchup-type="flussonic" group-title="📽️ КИНОЗАЛ SKY2000",Sky2000 HD
+http://r.faola.li/6813/video.m3u8?token=o92qWYCW1a
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="http://1lot.tv/ch/6920.png" catchup-days="2" catchup-type="flussonic" group-title="📽️ КИНОЗАЛ SKY2000",Sky2000 Cinema HD
+http://r.faola.li/6920/video.m3u8?token=o92qWYCW1a
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="http://1lot.tv/ch/6921.png" catchup-days="2" catchup-type="flussonic" group-title="📽️ КИНОЗАЛ SKY2000",Sky2000 Russian HD
+http://r.faola.li/6921/video.m3u8?token=o92qWYCW1a
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="http://1lot.tv/ch/7218.png" catchup-days="2" catchup-type="flussonic" group-title="📽️ КИНОЗАЛ SKY2000",Sky2000 VHS HD
+http://r.faola.li/7218/video.m3u8?token=o92qWYCW1a
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="http://1lot.tv/ch/8219.png" catchup-days="1" catchup-type="flussonic" group-title="📽️ КИНОЗАЛ SKY2000",Sky2000 India HD
+http://r.faola.li/8219/video.m3u8?token=o92qWYCW1a
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.ibb.co/Tq0mjyVX/SGN-02-20-2025-1740062689378.png" catchup-days="1" catchup-type="flussonic" group-title="📽️ КИНОЗАЛ SKY2000",Sky2000 Маша и Mедведь HD
+http://s.only4.tv/9044/video.m3u8?token=o92qWYCW1a
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.ibb.co/GQqNxbvB/SGN-02-20-2025-1740062765863.png" catchup-days="1" catchup-type="flussonic" group-title="📽️ КИНОЗАЛ SKY2000",Sky2000 Mult HD
+http://s.only4.tv/8220/video.m3u8?token=o92qWYCW1a
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/NVVDdN3/Fantastika1-HD.png" tvg-name="IPTVPLAY ФАНТАСТИКА HD" group-title="📽️ КИНОЗАЛ IPTVPLAY",IPTVPLAY ФАНТАСТИКА HD
+http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/ZcKcdM9/Pamyat1-HD.png" tvg-name="IPTVPLAY ПАМЯТЬ HD" group-title="📽️ КИНОЗАЛ IPTVPLAY",IPTVPLAY ПАМЯТЬ HD
+http://92.53.64.197:5050/IPTVPLAYPAMYAT.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/nCPyRfZ/Uzhastik1-HD.png" tvg-name="IPTVPLAY УЖАСТИК HD" group-title="📽️ КИНОЗАЛ IPTVPLAY",IPTVPLAY УЖАСТИК HD
+http://92.53.64.197:5050/IPTVPLAYUZHASTIK.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/SvHyZxQ/PromoHD.png" tvg-name="IPTVPLAY PROMO HD" group-title="📽️ КИНОЗАЛ IPTVPLAY",IPTVPLAY PROMO HD
+http://92.53.64.197:5050/IPTVPLAYPROMO.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/k3C2GSM/Multskazki1-HD.png" tvg-name="IPTVPLAY МультСказки HD" group-title="📽️ КИНОЗАЛ IPTVPLAY",IPTVPLAY МУЛЬТСКАЗКИ HD
+http://92.53.64.197:5050/IPTVPLAYMultSkazki.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i123.fastpic.org/big/2024/0826/ee/6d269a3701fd505b42ad593a52cd9eee.png" tvg-name="IPTVPLAY ИНТЕРНЫ HD" group-title="📽️ КИНОЗАЛ IPTVPLAY",IPTVPLAY ИНТЕРНЫ HD
+http://92.53.64.197:5050/IPTVPLAYINTERNY.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i123.fastpic.org/big/2024/0826/01/adbb4692281cf3cc6540f47f4460c701.png" tvg-name="IPTVPLAY ВЕДЬМАК HD" group-title="📽️ КИНОЗАЛ IPTVPLAY",IPTVPLAY ВЕДЬМАК HD
+http://92.53.64.197:5050/IPTVPLAYVEDMAK.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i123.fastpic.org/big/2024/0826/ac/f4f87b57a79f0fbc6381996811439dac.png" tvg-name="IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО HD" group-title="📽️ КИНОЗАЛ IPTVPLAY",IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО HD
+http://92.53.64.197:5050/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/8mnwV1M/SGN-01-12-2025-1736679986956.png" group-title="📽️ КИНОЗАЛЫ",1FILMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/204708_720.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/D8sMRR2/SGN-01-12-2025-1736680519016.png" group-title="📽️ КИНОЗАЛЫ",2FILMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/204717.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/k5jDywH/SGN-01-26-2025-1737882642142.png" group-title="📽️ КИНОЗАЛЫ",Selecao TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/163253.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/1XbKX7M/SGN-01-26-2025-1737882676268.png" group-title="📽️ КИНОЗАЛЫ",Selecao TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/manifest/157269_master.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.ibb.co/dJLpZWSG/Trk-ukraina-2013-2019-idents.png" group-title="📽️ КИНОЗАЛЫ",Украина 1
+https://fl1001.bozztv.com/ushba12/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.ibb.co/dJLpZWSG/Trk-ukraina-2013-2019-idents.png" group-title="📽️ КИНОЗАЛЫ",Украина 2
+https://fl1001.bozztv.com/ushba5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/jvthw2F/SGN-04-14-2024-1713041687039.png" group-title="📽️ КИНОЗАЛЫ",Кошмар HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://hlss.goodgame.ru/hls/204709.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/Y87vfxc/SGN-01-12-2025-1736675531066.png" group-title="📽️ КИНОЗАЛЫ",FantasticMystiC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/187741.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/QJMdS3H/SGN-04-14-2024-1713084126822.png" group-title="📽️ КИНОЗАЛЫ",Восход ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/manifest/202997_master.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/CBfpdN0/SGN-04-14-2024-1713075375291.png" group-title="📽️ КИНОЗАЛЫ",Fantoms
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/204722.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/QnmpHC5/SGN-01-18-2025-1737209213129.png" group-title="📽️ КИНОЗАЛЫ",SeriesTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/186021.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/XZ4G2n0/SGN-01-12-2025-1736705753148.png" group-title="📽️ КИНОЗАЛЫ",Эфира net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/181039.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/nRCK0dZ/SGN-01-18-2025-1737206755945.png" group-title="📽️ КИНОЗАЛЫ",КиноКонтент
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/208358.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/m4VNfwZ/SGN-01-18-2025-1737207315001.png" group-title="📽️ КИНОЗАЛЫ",4K Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/206513.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/6gXyvXK/SGN-01-18-2025-1737207967286.png" group-title="📽️ КИНОЗАЛЫ",NReality TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/196074.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.ibb.co/cQRCyxw/SGN-04-06-2024-1712432606553.png" group-title="📽️ КИНОЗАЛЫ",Смотрим Кино и сериалы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="📽️ КИНОЗАЛЫ",Кино 1 international
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/m5pdnPP/SGN-01-18-2025-1737206661413.png" group-title="📽️ КИНОЗАЛЫ",Сериал солдаты
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/210275.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.ibb.co/3hLYMDH/SGN-04-14-2024-1713095065826.png" group-title="📽️ КИНОЗАЛЫ",Мистер Бин
+https://fl1001.bozztv.com/ushba45/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="no_epg" catchup="append" tvg-logo="https://i.ibb.co/sdmsh4Yc/SGN-01-31-2025-1738352787026.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="📽️ КИНОЗАЛЫ",Всё ТВ
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://s72169.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
