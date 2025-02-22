@@ -15,6 +15,8 @@ http://ncdn-y1-w3.teamcloud.am/live/eds/H2/SAF-HLS/H2.m3u8
 #EXTINF:-1 tvg-id="armenia-am-hd-orig" tvg-logo="https://i.ibb.co/YpGS1pS/SGN-04-13-2022-1649796240900.png" group-title="🇦🇲 АРМЕНИЯ",Armenia TV HD
 #EXTVLCOPT:http-user-agent=smartlabs
 http://ncdn-y1-w3.teamcloud.am/live/eds/ArmeniaTV/SAF-HLS/ArmeniaTV.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/mbNfDT3/SGN-04-05-2022-1649186587952.png" group-title="🇦🇲 АРМЕНИЯ",PanArmenian TV HD
+https://us1.ottstream.live:17071/C279/index.m3u8?token=123TREWQ456
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.ibb.co/1KDxsXR/SGN-05-01-2022-1651413983093.png" group-title="🇦🇲 АРМЕНИЯ",USArmeniaTV HD
 http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
 #EXTINF:-1 tvg-id="arm-premium" tvg-logo="https://i.ibb.co/G9nqN7f/SGN-05-08-2022-1652038669927.png" group-title="🇦🇲 АРМЕНИЯ",Armenia Premium HD
